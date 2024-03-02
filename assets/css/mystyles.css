@@ -8360,7 +8360,7 @@ table th {
       border-color: transparent;
       color: #fff; }
       .button.is-primary:hover, .button.is-primary.is-hovered {
-        background-color: #e05413;
+        background-color: #1B4F72;
         border-color: transparent;
         color: #fff; }
       .button.is-primary:focus, .button.is-primary.is-focused {
@@ -8552,7 +8552,7 @@ table th {
       border-color: transparent;
       color: #fff; }
       .button.is-success:hover, .button.is-success.is-hovered {
-        background-color: #008052;
+        background-color: #1B4F72;
         border-color: transparent;
         color: #fff; }
       .button.is-success:focus, .button.is-success.is-focused {
@@ -9915,7 +9915,7 @@ table th {
     background-color: #1B4F72;
     color: #fff; }
   .file.is-primary:hover .file-cta, .file.is-primary.is-hovered .file-cta {
-    background-color: #e05413;
+    background-color: #1B4F72;
     color: #fff; }
   .file.is-primary:focus .file-cta, .file.is-primary.is-focused .file-cta {
     box-shadow: 0 0 0.5em rgba(235, 89, 21, 0.25);
@@ -9951,7 +9951,7 @@ table th {
     background-color: #1B4F72;
     color: #fff; }
   .file.is-success:hover .file-cta, .file.is-success.is-hovered .file-cta {
-    background-color: #008052;
+    background-color: #1B4F72;
     color: #fff; }
   .file.is-success:focus .file-cta, .file.is-success.is-focused .file-cta {
     box-shadow: 0 0 0.5em rgba(0, 141, 90, 0.25);
