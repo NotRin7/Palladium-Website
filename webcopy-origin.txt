@@ -1,0 +1,584 @@
+Uri: https://cdn.jsdelivr.net/npm/jquery.scrollto@2.1.3/jquery.scrollTo.min.js
+File Name: C:\Downloaded Web Sites\duinocoin.com\npm\jquery.scrollto@2.1.3\jquery.scrollTo.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.8.1/lottie.min.js
+File Name: C:\Downloaded Web Sites\duinocoin.com\ajax\libs\bodymovin\5.8.1\lottie.min.js
+Content Type: application/javascript
+
+Uri: https://downloads.arduino.cc/arduino-1.8.19-linux64.tar.xz
+File Name: C:\Downloaded Web Sites\duinocoin.com\arduino-1.8.19-linux64.tar.xz
+Content Type: application/x-tar
+
+Uri: https://downloads.arduino.cc/arduino-1.8.19-macosx.zip
+File Name: C:\Downloaded Web Sites\duinocoin.com\arduino-1.8.19-macosx.zip
+Content Type: application/zip
+
+Uri: https://downloads.arduino.cc/arduino-1.8.19-windows.exe
+File Name: C:\Downloaded Web Sites\duinocoin.com\arduino-1.8.19-windows.exe
+Content Type: application/x-msdos-program
+
+Uri: https://duinocoin.com/
+File Name: C:\Downloaded Web Sites\duinocoin.com\index.htm
+Content Type: text/html
+
+Uri: https://duinocoin.com/apps.html
+File Name: C:\Downloaded Web Sites\duinocoin.com\apps.html
+Content Type: text/html
+
+Uri: https://duinocoin.com/assets/css/mystyles.css?v=3
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\css\mystyles.css
+Content Type: text/css
+
+Uri: https://duinocoin.com/assets/css/mystyles.css?v=4
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\css\mystyles-1.css
+Content Type: text/css
+
+Uri: https://duinocoin.com/assets/icons/android.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\android.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/app/amogusfaucet.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\app\amogusfaucet.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/app/androidapp.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\app\androidapp.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/app/avrmonitor.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\app\avrmonitor.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/app/beyondfaucet.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\app\beyondfaucet.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/app/companion.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\app\companion.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/app/ducopanel.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\app\ducopanel.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/app/duinocoinwallet.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\app\duinocoinwallet.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/app/duinostats.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\app\duinostats.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/app/duinostatsmini.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\app\duinostatsmini.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/apple.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\apple.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/arduino.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\arduino.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/bimbows.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\bimbows.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/bimbows_7.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\bimbows_7.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/bimbows_8.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\bimbows_8.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/bimbows_old.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\bimbows_old.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/bimbows_xp.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\bimbows_xp.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/dogecoin.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\dogecoin.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/duco.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\duco.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/ducoexchange.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\ducoexchange.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/duino.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\duino.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/ethereum.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\ethereum.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/fluffyswap.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\fluffyswap.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/litecoin.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\litecoin.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/magi.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\magi.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/monero.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\monero.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/pancake.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\pancake.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/paypal.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\paypal.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/python.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\python.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/question_mark.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\question_mark.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/raven.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\raven.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/sunswap.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\sunswap.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/sushi.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\sushi.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/tron.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\tron.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/ubeswap.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\ubeswap.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/icons/ubuntu.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\icons\ubuntu.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/android-miner-setup.jpg
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\android-miner-setup.jpg
+Content Type: image/jpeg
+
+Uri: https://duinocoin.com/assets/images/android-miner.jpg
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\android-miner.jpg
+Content Type: image/jpeg
+
+Uri: https://duinocoin.com/assets/images/arduinojson.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\arduinojson.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/arduinos.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\arduinos.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/arduino_esp.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\arduino_esp.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/arduino_in_wallet.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\arduino_in_wallet.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/arduino_pc.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\arduino_pc.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/arduino_pi.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\arduino_pi.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/arduino_upload.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\arduino_upload.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/arduino_url.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\arduino_url.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/arduino_working.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\arduino_working.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/arrow.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\arrow.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/bilaboz.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\bilaboz.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/bitcourier.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\bitcourier.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/computers.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\computers.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/connect.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\connect.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/connor.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\connor.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/esp32s.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\esp32s.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/esp32_install.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\esp32_install.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/esp32_in_wallet.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\esp32_in_wallet.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/esp32_upload.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\esp32_upload.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/esp32_working.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\esp32_working.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/esp8266s.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\esp8266s.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/esp8266_install.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\esp8266_install.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/esp8266_in_wallet.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\esp8266_in_wallet.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/esp8266_upload.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\esp8266_upload.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/esp8266_working.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\esp8266_working.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/get_connected.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\get_connected.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/joaquin.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\joaquin.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/joybed.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\joybed.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/ldarki.png?v=2
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\ldarki.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/lukas.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\lukas.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/miniminer.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\miniminer.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/miniminer_in_wallet.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\miniminer_in_wallet.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/miniminer_on_phone.jpg
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\miniminer_on_phone.jpg
+Content Type: image/jpeg
+
+Uri: https://duinocoin.com/assets/images/pcminer_in_wallet.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\pcminer_in_wallet.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/pcminer_start_windows.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\pcminer_start_windows.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/pcminer_stats.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\pcminer_stats.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/phones.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\phones.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/picos.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\picos.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/pico_install.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\pico_install.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/pico_in_wallet.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\pico_in_wallet.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/pico_upload.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\pico_upload.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/pico_working.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\pico_working.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/pis.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\pis.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/pripun.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\pripun.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/raspberry_terminal.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\raspberry_terminal.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/release_extract_windows.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\release_extract_windows.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/revox.jpg?v=2
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\revox.jpg
+Content Type: image/jpeg
+
+Uri: https://duinocoin.com/assets/images/smartphones.gif
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\smartphones.gif
+Content Type: image/gif
+
+Uri: https://duinocoin.com/assets/images/tech1k.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\tech1k.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/webminer.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\webminer.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/webminer_in_wallet.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\webminer_in_wallet.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/webminer_running.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\webminer_running.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/webservices.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\webservices.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/images/yanis.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\images\yanis.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/assets/js/all.min.js
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\js\all.min.js
+Content Type: application/javascript
+
+Uri: https://duinocoin.com/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://duinocoin.com/assets/js/jszip.min.js
+File Name: C:\Downloaded Web Sites\duinocoin.com\assets\js\jszip.min.js
+Content Type: application/javascript
+
+Uri: https://duinocoin.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\duinocoin.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\duinocoin.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\duinocoin.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\duinocoin.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://duinocoin.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\duinocoin.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://duinocoin.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\duinocoin.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://duinocoin.com/contact
+File Name: C:\Downloaded Web Sites\duinocoin.com\contact-1.html
+Content Type: text/html
+
+Uri: https://duinocoin.com/contact.html
+File Name: C:\Downloaded Web Sites\duinocoin.com\contact.html
+Content Type: text/html
+
+Uri: https://duinocoin.com/cookies
+File Name: C:\Downloaded Web Sites\duinocoin.com\cookies-1.html
+Content Type: text/html
+
+Uri: https://duinocoin.com/cookies.html
+File Name: C:\Downloaded Web Sites\duinocoin.com\cookies.html
+Content Type: text/html
+
+Uri: https://duinocoin.com/disclaimer
+File Name: C:\Downloaded Web Sites\duinocoin.com\disclaimer-1.html
+Content Type: text/html
+
+Uri: https://duinocoin.com/disclaimer.html
+File Name: C:\Downloaded Web Sites\duinocoin.com\disclaimer.html
+Content Type: text/html
+
+Uri: https://duinocoin.com/discord
+File Name: C:\Downloaded Web Sites\duinocoin.com\discord.html
+Content Type: text/html
+
+Uri: https://duinocoin.com/donate.html
+File Name: C:\Downloaded Web Sites\duinocoin.com\donate.html
+Content Type: text/html
+
+Uri: https://duinocoin.com/favicons/apple-touch-icon.png?v=2
+File Name: C:\Downloaded Web Sites\duinocoin.com\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/favicons/favicon-16x16.png?v=2
+File Name: C:\Downloaded Web Sites\duinocoin.com\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/favicons/favicon-32x32.png?v=2
+File Name: C:\Downloaded Web Sites\duinocoin.com\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://duinocoin.com/favicons/favicon.ico?v=2
+File Name: C:\Downloaded Web Sites\duinocoin.com\favicons\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://duinocoin.com/favicons/safari-pinned-tab.svg?v=2
+File Name: C:\Downloaded Web Sites\duinocoin.com\favicons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://duinocoin.com/favicons/site.webmanifest?v=2
+File Name: C:\Downloaded Web Sites\duinocoin.com\favicons\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://duinocoin.com/getting-started.html
+File Name: C:\Downloaded Web Sites\duinocoin.com\getting-started.html
+Content Type: text/html
+
+Uri: https://duinocoin.com/privacy.html
+File Name: C:\Downloaded Web Sites\duinocoin.com\privacy.html
+Content Type: text/html
+
+Uri: https://duinocoin.com/team.html
+File Name: C:\Downloaded Web Sites\duinocoin.com\team.html
+Content Type: text/html
+
+Uri: https://duinocoin.com/terms.html
+File Name: C:\Downloaded Web Sites\duinocoin.com\terms.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400&display=swap
+File Name: C:\Downloaded Web Sites\duinocoin.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=VT323&display=swap
+File Name: C:\Downloaded Web Sites\duinocoin.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vqPQw.ttf
+File Name: C:\Downloaded Web Sites\duinocoin.com\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vqPQw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/vt323/v17/pxiKyp0ihIEF2hsY.ttf
+File Name: C:\Downloaded Web Sites\duinocoin.com\s\vt323\v17\pxiKyp0ihIEF2hsY.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Downloaded Web Sites\duinocoin.com\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Downloaded Web Sites\duinocoin.com\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LdJ9XsgAAAAAMShiVvOtZ4cAbvvdkw7sHKQDV-6
+File Name: C:\Downloaded Web Sites\duinocoin.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-142187073-69
+File Name: C:\Downloaded Web Sites\duinocoin.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe
+File Name: C:\Downloaded Web Sites\duinocoin.com\ftp\python\3.10.6\python-3.10.6-amd64.exe
+Content Type: application/octet-stream
+
+Uri: https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi
+File Name: C:\Downloaded Web Sites\duinocoin.com\ftp\python\3.4.4\python-3.4.4.msi
+Content Type: application/octet-stream
+
+Uri: https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe
+File Name: C:\Downloaded Web Sites\duinocoin.com\ftp\python\3.8.6\python-3.8.6-amd64.exe
+Content Type: application/octet-stream
+
