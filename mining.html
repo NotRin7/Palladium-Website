@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Palladium Network Stats</title>
+</head>
+<body>
+
+<h1>Palladium Network Stats</h1>
+
+<p>This is a website displaying statistics about the Palladium network, including difficulty, block count, and network hash rate.</p>
+
+<iframe id="difficultyFrame" src="https://palladium.altcoinspool.com/api/getdifficulty"></iframe>
+<iframe id="blockCountFrame" src="https://palladium.altcoinspool.com/api/getblockcount"></iframe>
+<iframe id="networkHashRateFrame" src="https://palladium.altcoinspool.com/api/getnetworkhashps"></iframe>
+
+<script>
+    window.onload = function() {
+        var difficultyFrame = document.getElementById('difficultyFrame');
+        var blockCountFrame = document.getElementById('blockCountFrame');
+        var networkHashRateFrame = document.getElementById('networkHashRateFrame');
+
+        difficultyFrame.onload = function() {
+            var difficultyContent = difficultyFrame.contentWindow.document.body.innerHTML;
+            console.log("Difficulty: " + difficultyContent); // You can display or use the difficulty content here
+        }
+
+        blockCountFrame.onload = function() {
+            var blockCountContent = blockCountFrame.contentWindow.document.body.innerHTML;
+            console.log("Block Count: " + blockCountContent); // You can display or use the block count content here
+        }
+
+        networkHashRateFrame.onload = function() {
+            var networkHashRateContent = networkHashRateFrame.contentWindow.document.body.innerHTML;
+            var networkHashRateThs = parseFloat(networkHashRateContent) / 1e12; // Convert from H/s to Th/s
+            console.log("Network Hash Rate: " + networkHashRateThs + " Th/s"); // You can display or use the network hash rate content here
+        }
+    }
+</script>
+
+</body>
+</html>
