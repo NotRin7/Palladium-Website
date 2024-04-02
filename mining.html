@@ -113,25 +113,12 @@
             transform: scale(1.3);
         }
     }
-
-    /* Add padding to move the iframes downward */
-  
-        #difficultyFrame{
-            padding-left:600px;
-        }
-        #header {
-    
-    padding-top:100px;
-    padding-left:600px;
-    position: relative;
-    z-index: 2;
-}
-
-#iframe-container {
-    position: relative;
-    z-index: 1;
-}
-    </style>
+     /* Responsive Video */
+     video {
+            width: 100%;
+            height: auto;
+     }
+            </style>
 </head>
 
 <body>
@@ -206,23 +193,33 @@
             </div>
         </div>
     </nav>
-
-        <div id="header">
-            <h>difficulty</h><span style="padding-left: 250px;"></span><h>blockcount</h><span style="padding-left: 230px;"></span><h>networkhashrate</h>
+    <div class="section">
+        <div class="container">
+            <br><br><br>
+            <div class="content">
+                <p class="title">Tutorials for the Palladium Wallet</p>
+                <p class="subtitle">Last updated and effective: July 23, 2023</p>
+                <br>
+                <h2 class="subtitle">HOW TO DOWNLOAD PALLADIUM WALLET</h2>
+                <video controls width="600">
+                    <source src="tutorialdownloadwallet.mp4" type="video/mp4">
+                </video>
+                <br>
+                <h2 class="subtitle">1. Go to GitHub</h2>
+                <p>Click one of the download wallet buttons to go to the GitHub page where you'll find the necessary links for downloading the wallet.</p>
+                <img src="assets\images\2stepwallet.png" alt="Twitter Logo">
+                <br>
+                <h2 class="subtitle">2. Download the Palladium Wallet on GitHub</h2>
+                <p>Click on one of the links shown in the picture to download the Palladium Wallet for Windows or Linux.</p>
+                <img src="assets\images\3stepwallet.png" alt="Twitter Logo">
+                <br>
+                <h2 class="subtitle">3. Start Palladium</h2>
+                <p>When the download is finished, start the software and accept the terms of service.</p>
+                <img src="assets\images\4stepwallet.png" alt="Twitter Logo">
+            </div>
         </div>
+        <br><br><br><br><br>
     </div>
-
-    <div id="iframe-container">
-        <iframe id="difficultyFrame" src="https://palladium.altcoinspool.com/api/getdifficulty"></iframe>
-        <iframe id="blockCountFrame" src="https://palladium.altcoinspool.com/api/getblockcount"></iframe>
-        <iframe id="networkHashRateFrame" src="https://palladium.altcoinspool.com/api/getnetworkhashps"></iframe>
-    </div>
-
-    <script>
-        // JavaScript code for iframe content loading goes here
-    </script>
-</body>
-    
     <!-- FOOTER -->
     <footer class="footer">
         <div class="footercontent content has-text-centered has-text-white">
