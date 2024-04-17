@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en" class="notranslate" translate="no">
 
 <head>
@@ -118,6 +118,30 @@
             transform: scale(1.3);
         }
     }
+    #palladium-video {
+    margin-right: 20px; /* Ändere die Zahl entsprechend deiner Anforderungen */
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: -200px; /* Verschiebung nach unten anpassen */
+    object-fit: cover; /* Skalierung des Videos anpassen */
+    position: relative; /* Positionierung des Videos */
+}
+
+#palladium-video video {
+    object-fit: cover; /* Skalierung des Videos anpassen */
+}
+.video-container {
+    width: 70%; /* Ändere die Breite nach Bedarf */
+    margin: 0 auto; /* Zentriert das Video horizontal */
+}
+
+#palladium-video {
+    width: 100%; /* Füllt die Breite des Containers aus */
+    display: block;
+    margin: 0 auto; /* Zentriert das Video innerhalb des Containers */
+}
     </style>
 </head>
 
@@ -240,7 +264,9 @@
             </div>
         </a>
     </section>
-
+    <div class="video-container"  style="padding-left: 270px; padding-top: 50px;">
+        <iframe width="75%" height="30%" src="https://www.youtube.com/embed/dMds9uHWxTk?autoplay=1&mute=1&rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
     <section class="hero is-medium">
         <div class="hero-body" id="explore" data-aos="zoom-in">
             <div class="columns is-centered">
