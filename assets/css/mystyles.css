@@ -832,7 +832,7 @@ a.has-text-white:hover, a.has-text-white:focus {
   color: #e6e6e6 !important; }
 
 .has-background-white {
-  background-color: white !important; }
+  background-color: black !important; }
 
 .has-text-black {
   color: #0a0a0a !important; }
@@ -844,13 +844,13 @@ a.has-text-black:hover, a.has-text-black:focus {
   background-color: #0a0a0a !important; }
 
 .has-text-light {
-  color: whitesmoke !important; }
+  color: black !important; }
 
 a.has-text-light:hover, a.has-text-light:focus {
   color: #dbdbdb !important; }
 
 .has-background-light {
-  background-color: whitesmoke !important; }
+  background-color: black !important; }
 
 .has-text-dark {
   color: #111111 !important; }
@@ -877,7 +877,7 @@ a.has-text-primary-light:hover, a.has-text-primary-light:focus {
   color: #f9d0bd !important; }
 
 .has-background-primary-light {
-  background-color: #fdf2ec !important; }
+  background-color: black !important; }
 
 .has-text-primary-dark {
   color: #ae410f !important; }
