@@ -1069,13 +1069,13 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   color: whitesmoke !important; }
 
 .has-background-white-ter {
-  background-color: whitesmoke !important; }
+  background-color: has-background-white !important; }
 
 .has-text-white-bis {
   color: #fafafa !important; }
 
 .has-background-white-bis {
-  background-color: #fafafa !important; }
+  background-color: has-background-white !important; }
 
 .is-flex-direction-row {
   flex-direction: row !important; }
